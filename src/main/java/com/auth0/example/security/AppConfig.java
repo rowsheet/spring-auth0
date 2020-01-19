@@ -58,6 +58,7 @@ public class AppConfig extends WebSecurityConfigurerAdapter {
         http
             .authorizeRequests()
             .antMatchers("/callback", "/login", "/", "/*.png", "/css/**", "/js/**").permitAll()
+            .antMatchers("/api", "/about", "/api/**").permitAll()
             .anyRequest().authenticated()
             .and()
             .logout().logoutSuccessHandler(logoutSuccessHandler()).permitAll();
