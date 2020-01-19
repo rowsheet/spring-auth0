@@ -21,6 +21,7 @@ public class ErrorController implements org.springframework.boot.autoconfigure.w
         logger.error("Handling error");
         redirectAttributes.addFlashAttribute("error", true);
         return "redirect:/login";
+        // return "ERROR";
     }
 
     @Override

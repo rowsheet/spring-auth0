@@ -57,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -70,6 +71,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
@@ -138,21 +140,29 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1579390994006" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom" timestamp="1579398002381">
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1579453951832">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579398002381" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center" timestamp="1579398002380">
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1579453951832" />
+    <state x="334" y="394" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579398251962">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579398002380" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left" timestamp="1579398002379">
+    <state x="334" y="394" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877@0.23.1440.877" timestamp="1579398251962" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom" timestamp="1579460449952">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579398002379" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right" timestamp="1579398002380">
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579460449952" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center" timestamp="1579460449951">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579398002380" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579460449951" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left" timestamp="1579460449951">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579460449951" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right" timestamp="1579460449952">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579460449952" />
   </component>
 </project>

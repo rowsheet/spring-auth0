@@ -7,9 +7,12 @@ logging:
         example: INFO
     org:
       springframework:
-        web: DEBUG
-        security: DEBUG
-        boot: DEBUG
+        # web: DEBUG
+        web: INFO
+        # security: DEBUG
+        security: INO
+        # boot: DEBUG
+        boot: INFO
 spring:
   datasource:
     url: ${DATASOURCE_URL}

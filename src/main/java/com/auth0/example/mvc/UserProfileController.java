@@ -19,6 +19,8 @@ public class UserProfileController {
     @RequestMapping(value = "/profile", method = RequestMethod.GET)
     protected String profile(final Model model, final Authentication authentication) {
 
+        logger.info("Profile page");
+
         // Since we've configured Spring Security to only allow authenticated requests to
         // reach this endpoint, and we control the Authentication implementation, we can safely cast.
         TokenAuthentication tokenAuthentication = (TokenAuthentication) authentication;
